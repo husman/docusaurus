@@ -1,7 +1,7 @@
 {
   "main": [
     "/main.130c6c428e6fab24faa5.css",
-    "/main.2e39fb813af15664435d.js"
+    "/main.ef44a4acbf70bf7455af.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.c4980519c72a6637af16.css",
@@ -48,47 +48,47 @@
     "/component---theme-doc-legacy-page-9-e-7-ca5.4c3415c902d7fc3c50b1.js"
   ],
   "docsMetadata---docse-32-540": [
-    "/docsMetadata---docse-32-540.8e2f2560e9bf7edbf1db.js"
+    "/docsMetadata---docse-32-540.ae7b3d66a7502d9a9bb4.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/component---theme-doc-legacy-item-031-769.8d0ace275364a73b43fd.css",
     "/component---theme-doc-legacy-item-031-769.39e189ce2b78d24bcbca.js"
   ],
-  "content---docs-advanced-themesea-6-217": [
-    "/content---docs-advanced-themesea-6-217.263285bfe8bb6f7572cc.js"
-  ],
-  "metadata---docs-advanced-themes-383-99b": [
-    "/metadata---docs-advanced-themes-383-99b.b925f372fcc4dac63677.js"
-  ],
-  "content---docs-analytics-7-cf-4eb": [
-    "/content---docs-analytics-7-cf-4eb.2253f6a1db7bde6ea97b.js"
-  ],
-  "metadata---docs-analytics-8-de-5f8": [
-    "/metadata---docs-analytics-8-de-5f8.d01fc0395c5398029668.js"
-  ],
-  "content---docs-advanced-presets-7-be-b1c": [
-    "/content---docs-advanced-presets-7-be-b1c.be7ebd291a2b503ae951.js"
-  ],
-  "metadata---docs-advanced-presets-7-ce-18a": [
-    "/metadata---docs-advanced-presets-7-ce-18a.0c717b0c2e23e9d6150a.js"
-  ],
-  "content---docs-api-themes-407-f4a": [
-    "/content---docs-api-themes-407-f4a.21db54a52f7a7fca5afe.js"
-  ],
-  "metadata---docs-api-themes-809-c98": [
-    "/metadata---docs-api-themes-809-c98.617ca2a8bb2ecfd2d8e2.js"
-  ],
   "content---docs-advanced-pluginsd-69-a25": [
-    "/content---docs-advanced-pluginsd-69-a25.1f6fd3a4f3c07585baa2.js"
+    "/content---docs-advanced-pluginsd-69-a25.236c16655448be1d694a.js"
   ],
   "metadata---docs-advanced-pluginsba-5-4da": [
-    "/metadata---docs-advanced-pluginsba-5-4da.761e6ec12ef0fb4eb702.js"
+    "/metadata---docs-advanced-pluginsba-5-4da.16e9a195a3d771cde3ed.js"
   ],
-  "content---docs-cli-1-a-2-6cb": [
-    "/content---docs-cli-1-a-2-6cb.c23c69db1193f618f293.js"
+  "content---docs-advanced-presets-7-be-b1c": [
+    "/content---docs-advanced-presets-7-be-b1c.a16874e1402d10832ff6.js"
   ],
-  "metadata---docs-clia-1-a-6b4": [
-    "/metadata---docs-clia-1-a-6b4.511040375b359550645d.js"
+  "metadata---docs-advanced-presets-7-ce-18a": [
+    "/metadata---docs-advanced-presets-7-ce-18a.bf39ca581d443015a401.js"
+  ],
+  "content---docs-analytics-7-cf-4eb": [
+    "/content---docs-analytics-7-cf-4eb.019b33963bd36e27c917.js"
+  ],
+  "metadata---docs-analytics-8-de-5f8": [
+    "/metadata---docs-analytics-8-de-5f8.326b55fd42c686a93adb.js"
+  ],
+  "content---docs-advanced-themesea-6-217": [
+    "/content---docs-advanced-themesea-6-217.b88332b01cc73201e251.js"
+  ],
+  "metadata---docs-advanced-themes-383-99b": [
+    "/metadata---docs-advanced-themes-383-99b.61359219b49f54dd0dda.js"
+  ],
+  "content---docs-blogf-56-37b": [
+    "/content---docs-blogf-56-37b.b71dc5d893dac429dcdd.js"
+  ],
+  "metadata---docs-blogb-2-a-c34": [
+    "/metadata---docs-blogb-2-a-c34.6124eee97053dcf1f326.js"
+  ],
+  "content---docs-api-themes-407-f4a": [
+    "/content---docs-api-themes-407-f4a.a909967ff7c4b28c6123.js"
+  ],
+  "metadata---docs-api-themes-809-c98": [
+    "/metadata---docs-api-themes-809-c98.bb4f3a507d14c25f401c.js"
   ],
   "content---docs-configuration-9-ed-a26": [
     "/content---docs-configuration-9-ed-a26.e4f827a985f543883606.js"
@@ -96,11 +96,11 @@
   "metadata---docs-configuratione-74-455": [
     "/metadata---docs-configuratione-74-455.be1e33c040b3d6db6af4.js"
   ],
-  "content---docs-blogf-56-37b": [
-    "/content---docs-blogf-56-37b.625d3deaad8aa82b583e.js"
+  "content---docs-cli-1-a-2-6cb": [
+    "/content---docs-cli-1-a-2-6cb.9d5498fed9e91a125ded.js"
   ],
-  "metadata---docs-blogb-2-a-c34": [
-    "/metadata---docs-blogb-2-a-c34.18bdce49e1e9fb6c1679.js"
+  "metadata---docs-clia-1-a-6b4": [
+    "/metadata---docs-clia-1-a-6b4.1f9c4e0c882ca120e751.js"
   ],
   "content---docs-creating-pagesb-2-c-a8e": [
     "/content---docs-creating-pagesb-2-c-a8e.6de346f21e1ad0ef4b1e.js"
@@ -108,29 +108,29 @@
   "metadata---docs-creating-pages-108-470": [
     "/metadata---docs-creating-pages-108-470.ca90abbc043899f7dc1a.js"
   ],
-  "content---docs-design-principles-2-c-9-814": [
-    "/content---docs-design-principles-2-c-9-814.9f5df901319fb73f32bc.js"
-  ],
-  "metadata---docs-design-principles-189-016": [
-    "/metadata---docs-design-principles-189-016.5f441c5e55dc5d9f7c39.js"
-  ],
   "content---docs-deploymenta-37-88b": [
-    "/content---docs-deploymenta-37-88b.373a069abcfb050e0e97.js"
+    "/content---docs-deploymenta-37-88b.1510dff1f0ab1c37ac5c.js"
   ],
   "metadata---docs-deploymentb-85-936": [
-    "/metadata---docs-deploymentb-85-936.ab43e9c87fe2ac14f1c6.js"
+    "/metadata---docs-deploymentb-85-936.ce5579e8245d34c59eb3.js"
   ],
-  "content---docs-docusaurus-coreea-1-d6a": [
-    "/content---docs-docusaurus-coreea-1-d6a.ab6cb5d0e33274ff62d3.js"
+  "content---docs-design-principles-2-c-9-814": [
+    "/content---docs-design-principles-2-c-9-814.1993281dced17db011b6.js"
   ],
-  "metadata---docs-docusaurus-core-06-a-189": [
-    "/metadata---docs-docusaurus-core-06-a-189.d27c8660cab8fec1189b.js"
+  "metadata---docs-design-principles-189-016": [
+    "/metadata---docs-design-principles-189-016.bb17035b649f673a8488.js"
   ],
   "content---docs-docusaurus-config-js-020-fb2": [
-    "/content---docs-docusaurus-config-js-020-fb2.e16cf1e9c619e4c94c90.js"
+    "/content---docs-docusaurus-config-js-020-fb2.9a5922c4474c419c01ba.js"
   ],
   "metadata---docs-docusaurus-config-jsf-81-021": [
-    "/metadata---docs-docusaurus-config-jsf-81-021.57b3a16d86ecc46ef9fa.js"
+    "/metadata---docs-docusaurus-config-jsf-81-021.564b440114da37b11d49.js"
+  ],
+  "content---docs-docusaurus-coreea-1-d6a": [
+    "/content---docs-docusaurus-coreea-1-d6a.b4be849b3fb54dd39f16.js"
+  ],
+  "metadata---docs-docusaurus-core-06-a-189": [
+    "/metadata---docs-docusaurus-core-06-a-189.d02452d1abfb3305f8e9.js"
   ],
   "content---docs-installation-3-b-8-7c6": [
     "/content---docs-installation-3-b-8-7c6.b6cc494512aeecccdc9e.js"
@@ -144,35 +144,35 @@
   "metadata---docs-lifecycle-apis-3-de-080": [
     "/metadata---docs-lifecycle-apis-3-de-080.c70ceefc8bee409a4982.js"
   ],
-  "content---docs-introductiona-09-6b4": [
-    "/content---docs-introductiona-09-6b4.e091a79c0d7543086a94.js"
-  ],
-  "metadata---docs-introduction-7-c-4-0a9": [
-    "/metadata---docs-introduction-7-c-4-0a9.c9540242daafbcf29885.js"
-  ],
   "content---docs-motivation-109-e2d": [
-    "/content---docs-motivation-109-e2d.deda43e92830871433d1.js"
+    "/content---docs-motivation-109-e2d.392fb9e75535c9ff6d3e.js"
   ],
   "metadata---docs-motivation-7-f-7-e26": [
-    "/metadata---docs-motivation-7-f-7-e26.6d8850634f45b6080711.js"
+    "/metadata---docs-motivation-7-f-7-e26.31094f35b8ff4517b025.js"
   ],
   "content---docs-searchbb-3-a48": [
-    "/content---docs-searchbb-3-a48.25cd8e33e566ac035504.js"
+    "/content---docs-searchbb-3-a48.5167a00aed9af7bade7b.js"
   ],
   "metadata---docs-searchc-42-aaa": [
-    "/metadata---docs-searchc-42-aaa.e3c18c85074852901088.js"
+    "/metadata---docs-searchc-42-aaa.9bf83f082b1043727d3c.js"
   ],
   "content---docs-seo-3-f-2-7a8": [
-    "/content---docs-seo-3-f-2-7a8.5a783a580a9ce4af1746.js"
+    "/content---docs-seo-3-f-2-7a8.3ccfdc0ed23d70f5b358.js"
   ],
   "metadata---docs-seo-703-37e": [
-    "/metadata---docs-seo-703-37e.4d5903d6225e518f5aac.js"
+    "/metadata---docs-seo-703-37e.99925129767e2f4448fc.js"
   ],
   "content---docs-sidebarb-96-52c": [
-    "/content---docs-sidebarb-96-52c.0d660e602758e843899e.js"
+    "/content---docs-sidebarb-96-52c.dcceb166b5e62efc6ab6.js"
   ],
   "metadata---docs-sidebare-40-acd": [
-    "/metadata---docs-sidebare-40-acd.13d49767cb9b94d1ea14.js"
+    "/metadata---docs-sidebare-40-acd.d43cfa0f66da189e8d16.js"
+  ],
+  "content---docs-introductiona-09-6b4": [
+    "/content---docs-introductiona-09-6b4.cec8efd81d1f8f5684c1.js"
+  ],
+  "metadata---docs-introduction-7-c-4-0a9": [
+    "/metadata---docs-introduction-7-c-4-0a9.3f1a2c0baa556953f79c.js"
   ],
   "content---docs-static-assets-77-b-09d": [
     "/content---docs-static-assets-77-b-09d.1f7af5979720e6252747.js"
@@ -240,14 +240,14 @@
   "metadata---blog-tags-birth-439-046": [
     "/metadata---blog-tags-birth-439-046.5b19439d079426e485d8.js"
   ],
-  "metadata---blog-tags-adoption-1-b-8-fc5": [
-    "/metadata---blog-tags-adoption-1-b-8-fc5.294b1ea392de6eb6c3df.js"
+  "metadata---blog-tags-new-254-e62": [
+    "/metadata---blog-tags-new-254-e62.85a1ef3f5d969f77c819.js"
   ],
   "metadata---blog-tags-profiloc-6-b-c22": [
     "/metadata---blog-tags-profiloc-6-b-c22.963f972ee0f53d85fec8.js"
   ],
-  "metadata---blog-tags-new-254-e62": [
-    "/metadata---blog-tags-new-254-e62.997601d267317a5d7304.js"
+  "metadata---blog-tags-adoption-1-b-8-fc5": [
+    "/metadata---blog-tags-adoption-1-b-8-fc5.1e06bbaafd3fab5dc5e8.js"
   ],
   "component---theme-blog-tags-list-page-01-a-d0b": [
     "/component---theme-blog-tags-list-page-01-a-d0b.3fbb3d380ddc2515787a.css",

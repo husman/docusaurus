@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/theme-classic",
+  "name": "@astock/docusaurus-theme-classic",
   "version": "2.0.1-alpha.0",
   "description": "Classic theme for Docusaurus",
   "main": "src/index.js",

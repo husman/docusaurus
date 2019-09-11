@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/init",
+  "name": "@astock/docusaurus-init",
   "version": "2.0.1-alpha.0",
   "description": "Create Docusaurus app easily",
   "repository": {

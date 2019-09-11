@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/utils",
+  "name": "@astock/docusaurus-utils",
   "version": "2.0.1-alpha.0",
   "description": "Node utility functions for Docusaurus packages",
   "main": "./lib/index.js",

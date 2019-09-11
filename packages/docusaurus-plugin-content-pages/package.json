@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/plugin-content-pages",
+  "name": "@astock/docusaurus-plugin-content-pages",
   "version": "2.0.1-alpha.0",
   "description": "Pages content plugin for Docusaurus",
   "main": "src/index.js",

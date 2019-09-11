@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/preset-classic",
+  "name": "@astock/docusaurus-preset-classic",
   "version": "2.0.1-alpha.0",
   "description": "Preset for classic Docusaurus",
   "main": "src/index.js",

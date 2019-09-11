@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/plugin-content-blog",
+  "name": "@astock/docusaurus-plugin-content-blog",
   "version": "2.0.1-alpha.0",
   "description": "Blog plugin for Docusaurus",
   "main": "src/index.js",

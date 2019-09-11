@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/theme-search-algolia",
+  "name": "@astock/docusaurus-theme-search-algolia",
   "version": "2.0.1-alpha.0",
   "description": "Algolia search component for Docusaurus",
   "main": "src/index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@docusaurus/plugin-google-gtag",
+  "name": "@astock/docusaurus-plugin-google-gtag",
   "version": "2.0.0-alpha.24",
   "description": "Global Site Tag (gtag.js) plugin for Docusaurus",
   "main": "src/index.js",

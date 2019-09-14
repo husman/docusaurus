@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[73],{94:function(o){o.exports=JSON.parse('{"id":"motivation","title":"Motivation","description":"Motivation of Docusaurus","source":"@site/docs/motivation.md","permalink":"/docusaurus/docs/motivation"}')}}]);

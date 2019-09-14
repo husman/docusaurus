@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[81],{46:function(s){s.exports=JSON.parse('{"permalink":"/blog/2017/12/14/introducing-docusaurus","source":"@site/../website-1.x/blog/2017-12-14-introducing-docusaurus.md","description":"![Introducing Slash](/img/slash-introducing.svg)","date":"2017-12-14T00:00:00.000Z","tags":[],"title":"Introducing Docusaurus"}')}}]);
